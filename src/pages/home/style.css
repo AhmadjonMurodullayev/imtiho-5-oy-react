@@ -1,0 +1,32 @@
+
+  .carousel-item img {
+    width: 100%;
+    min-height: 80vh;
+    max-height: 80vh;
+    object-fit: cover;
+  }
+ 
+   .carousel-container {
+    position: relative;
+    color: yellowgreen;
+  }
+  
+  /* .carousel-navigation {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .nav-button {
+    background-color: transparent;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 5px;
+  }
+   */
+ 
+  
+  
+  
